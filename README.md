@@ -1,6 +1,11 @@
 ## Sarita Radia
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Career switching from Marketing in SaaS to Software Development. This is for many reasons, including:
+- Software development has a huge variety of tasks and always changing, so I will need to keep on top of the content - I love to learn and adapt to changes. 
+- I am someone who is always seeking to learn and develop, and I have the creativity to problem solve. I have experience working as part of a team and individually in a professional environment.
+- Additionally, I am passionate about problem solving and coming up with creative and efficient solutions.  I am a good communicator and a solid team player.
+- Coding brings ideas to life. If you know what you want, know that it is possible to create it. This fuels my self-directed learning.
+
 
 ## Projects
 
@@ -78,16 +83,25 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Nottingham (September 2013 - September 2017)
+_Chemistry BSc(Honours)_
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- A balance of team and individual work was essential in class as well as in the lab setting.
+- Immoderately strict periods of time were given to plan, implement and analyse laboratory research projects. Covered an immense variety of areas which depended on accuracy, precision and a high level of independent research.
+- My degree significantly boosted my written and oral communication skills, as it was necessary to execute numerous essays, assignments, and presentations.
 
-#### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+
+
+#### Code First: Girls
+_Introduction to Web Development_
+
+- Eight-week introductory course to HTML, CSS and JavaScript
+- As part of my final project, I worked with a team to create a [Travel Portfolio website](https://github.com/saritahub/Project-CFG)
 
 ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+- **Web Development** I am partaking in a self-directed course with [Makers](https://makers.tech/) to boost my knowledge and switch to the tech industry 
+- **Reading** I read to inspire creativity within myself
+- **Travelling** To broaden my perspectives and increase my cultural awareness
+- **Yoga and meditation** is something I practice daily for the benefit of my body and mind, increasing my flexibility
+while maintaining good mental well-being
