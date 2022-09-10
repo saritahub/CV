@@ -6,9 +6,9 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description           | Tech/tools        |
 | ---------------------------- | -----------------     | ----------------- |
-| **Starter project**          | A command-line app    |  Ruby             |
-|                              | to input and view     |                   |
-|                              | student information.  |                   |
+| **Starter project**          | A command-line app to input and view student information   |  Ruby             |
+|                              |                       |                   |
+|                              |                       |                   |
 
 
 ## Work Experience
