@@ -13,7 +13,7 @@ Career switching from Marketing in SaaS to Software Development. This is for man
 | ---------------------------- | -----------------     | ----------------- |
 | [**Project CFG**](https://github.com/saritahub/Project-CFG)  | Final project for the Introduction to Web Development Project. | HTML, CSS, JavaScript               |
 |[**Student Directory**](https://github.com/saritahub/student-directory) | A command-line app to input and view student information               |  Ruby                 |
-|                              |                       |                   |
+|[**friendzone**](https://github.com/Dmum303/MERNsters-inc) | Final project for Makers bootcamp. Fun and frivolous application where users can find friends | MERN, vite, Tailwind CSS                |
 
 
 
@@ -34,7 +34,7 @@ year’ in 2021.
 - Part of the ‘Dotdiversity and inclusion’ group to help create a safe and all-embracing working
 environment.
 
-**Goldman Sachs** (January 2019 - July 2019 
+**Goldman Sachs** (January 2019 - July 2019) 
 _Customer Support Agent_
 
 - A fixed-term contract from Randstad. Responsible for answering inbound calls from Marcus by Goldman Sachs customers and providing up-to-date product information and account maintenance. This includes reviewing applications and helping customers troubleshoot with different devices so they were able to access their Marcus account independently.
@@ -75,13 +75,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Education
 
 #### Makers Academy (August 2022 - December 2022)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
+Skills gained include:
+- OOP
+- TDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- HTML, CSS (including Bootstrap and Tailwind CSS)
+- JavaScript, React.js, Node.js, Express, jQuery
+- Ruby, Rails, RSpec
+- SQL (PostgreSQL, SQLlite, TablePlus)
 
 #### University of Nottingham (September 2013 - September 2017)
 _Chemistry BSc(Honours)_
