@@ -1,4 +1,4 @@
-![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen) Find me on LinkedIn:<a href="https://www.linkedin.com/in/sarita-r-00062b14b"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25" alt="LinkedIn"></a>
+![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen)                Find me on LinkedIn:<a href="https://www.linkedin.com/in/sarita-r-00062b14b"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25" alt="LinkedIn"></a>
 
 ## Sarita Radia
 
