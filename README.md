@@ -123,7 +123,6 @@ _Introduction to Web Development_
 - As part of my final project, I worked with a team to create a [Travel Portfolio website](https://github.com/saritahub/Project-CFG)
 
 ## <a name="hobbies">Hobbies 🏋🏽‍♀️ </a>
-- **Web Development** 👩🏽‍💻I am partaking in a self-directed course with [Makers](https://makers.tech/) to boost my knowledge and switch to the tech industry 
 - **Reading** 📖 I read to inspire creativity within myself
 - **Travelling** ✈️ To broaden my perspectives and increase my cultural awareness
 - **Yoga and meditation**🧘🏽‍♀️ is something I practice daily for the benefit of my body and mind, increasing my flexibility
