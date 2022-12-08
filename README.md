@@ -39,6 +39,7 @@ Career switching from Marketing in SaaS to Software Development. This is for man
 - Git
 - GitHub 
 - Firebase
+- vite
 
 
 ## <a name="skills">Skills ⚙️ </a>
