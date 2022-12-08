@@ -21,8 +21,10 @@ Career switching from Marketing in SaaS to Software Development. This is for man
 | ---------------------------- | -----------------     | ----------------- |
 | [**Project CFG**](https://github.com/saritahub/Project-CFG)  | Final project for the Introduction to Web Development Project. | HTML, CSS, JavaScript               |
 |[**Student Directory**](https://github.com/saritahub/student-directory) | A command-line app to input and view student information               |  Ruby                 |
-|[**friendzone**](https://github.com/Dmum303/MERNsters-inc) | Final project for Makers bootcamp. Fun and frivolous application where users can find friends | MERN, vite, Tailwind CSS, Firebase                |
+|[**MakersBnB**](https://github.com/Arshad-Siddiqui/makersbnb-ruby-seed) | AirBnB Clone | Ruby, Sinatra, Heroku |
 |[**acebook**](https://github.com/Dmum303/acebook-team-bikini-bottom) | Spongebob themed Facebook clone | MERN, Firebase |
+|[**friendzone**](https://github.com/Dmum303/MERNsters-inc) | Final project for Makers bootcamp. Fun and frivolous application where users can find friends | MERN, vite, Tailwind CSS, Firebase                |
+
 
 ## <a name="tech-stack">Tech Stack 👩🏽‍💻</a> 
 - Ruby (Rails, Sinatra, RSpec, Capybara) 
