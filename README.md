@@ -2,8 +2,11 @@
 <br/>
 <a href="https://www.linkedin.com/in/sarita-r-00062b14b"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" alt="LinkedIn"></a>
 
-
 ## Sarita Radia
+
+[Introduction](#introduction) | [Projects](#projects) | [Tech Stack](#tech-stack) | [Skills](#skills) | [Education](#education) | [Work experience](#work-experience) | [Hobbies](#hobbies)
+
+## <a name="introduction">Introduction 👋🏽 </a>
 
 Career switching from Marketing in SaaS to Software Development. This is for many reasons, including:
 - Software development has a huge variety of tasks and always changing, so I will need to keep on top of the content - I love to learn and adapt to changes. 
@@ -20,34 +23,20 @@ Career switching from Marketing in SaaS to Software Development. This is for man
 |[**Student Directory**](https://github.com/saritahub/student-directory) | A command-line app to input and view student information               |  Ruby                 |
 |[**friendzone**](https://github.com/Dmum303/MERNsters-inc) | Final project for Makers bootcamp. Fun and frivolous application where users can find friends | MERN, vite, Tailwind CSS                |
 
+## <a name="tech-stack">Tech Stack 👩🏽‍💻</a> 
+- Ruby (Rails, Sinatra, RSpec, Capybara) 
+- JavaScript (React, Node.js, Jest)
+- HTML
+- CSS (Tailwind, Bootstrap)
+- SQL (PostgreSQL, TablePlus)
+- MongoDB
+- Express
+- Git
+- GitHub 
+- Firebase
 
 
-## Work Experience
-
-**Dotdigital** (September 2019 - June 2022) 
-_Customer Success Manager_
-
-- Responsible to be the eyes and ears of the customer. Keeping our priorities at the forefront and
-minimising any gaps or complications by passing on feedback to the relevant teams.
-- Strengthen relationships with new and existing customers to drive customer retention, success,
-and growth.
-- Documenting processes to guide Customer Success Executives, refine customer journeys and
-minimise risk.
-- Use of CRM systems to maintain a high degree of account management and control.
-- My hard work and determination led to winning the ‘Customer Success team member of the
-year’ in 2021.
-- Part of the ‘Dotdiversity and inclusion’ group to help create a safe and all-embracing working
-environment.
-
-**Goldman Sachs** (January 2019 - July 2019) 
-_Customer Support Agent_
-
-- A fixed-term contract from Randstad. Responsible for answering inbound calls from Marcus by Goldman Sachs customers and providing up-to-date product information and account maintenance. This includes reviewing applications and helping customers troubleshoot with different devices so they were able to access their Marcus account independently.
-- A personable and tailored approach, building relationships with customers to swiftly recognise and fully address all queries and issues.
-- Answering every call with a positive attitude and building rapport with customers to increase customer confidence in the reputation of the company.
-- Effectively documenting customer interactions in agreement with compliance policies and procedures, as well as making sure it is done in an accurate and timely manner.
-
-## Skills
+## <a name="skills">Skills </a>
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
@@ -77,7 +66,32 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+## <a name="work-experience">Work Experience </a>
+
+**Dotdigital** (September 2019 - June 2022) 
+_Customer Success Manager_
+
+- Responsible to be the eyes and ears of the customer. Keeping our priorities at the forefront and
+minimising any gaps or complications by passing on feedback to the relevant teams.
+- Strengthen relationships with new and existing customers to drive customer retention, success,
+and growth.
+- Documenting processes to guide Customer Success Executives, refine customer journeys and
+minimise risk.
+- Use of CRM systems to maintain a high degree of account management and control.
+- My hard work and determination led to winning the ‘Customer Success team member of the
+year’ in 2021.
+- Part of the ‘Dotdiversity and inclusion’ group to help create a safe and all-embracing working
+environment.
+
+**Goldman Sachs** (January 2019 - July 2019) 
+_Customer Support Agent_
+
+- A fixed-term contract from Randstad. Responsible for answering inbound calls from Marcus by Goldman Sachs customers and providing up-to-date product information and account maintenance. This includes reviewing applications and helping customers troubleshoot with different devices so they were able to access their Marcus account independently.
+- A personable and tailored approach, building relationships with customers to swiftly recognise and fully address all queries and issues.
+- Answering every call with a positive attitude and building rapport with customers to increase customer confidence in the reputation of the company.
+- Effectively documenting customer interactions in agreement with compliance policies and procedures, as well as making sure it is done in an accurate and timely manner.
+
+## <a name="education">Education </a>
 
 #### Makers Academy (August 2022 - December 2022)
 Skills gained include:
@@ -97,15 +111,13 @@ _Chemistry BSc(Honours)_
 - My degree significantly boosted my written and oral communication skills, as it was necessary to execute numerous essays, assignments, and presentations.
 
 
-
-
 #### Code First: Girls
 _Introduction to Web Development_
 
 - Eight-week introductory course to HTML, CSS and JavaScript
 - As part of my final project, I worked with a team to create a [Travel Portfolio website](https://github.com/saritahub/Project-CFG)
 
-## Hobbies
+## <a name="hobbies">Hobbies </a>
 - **Web Development** I am partaking in a self-directed course with [Makers](https://makers.tech/) to boost my knowledge and switch to the tech industry 
 - **Reading** I read to inspire creativity within myself
 - **Travelling** To broaden my perspectives and increase my cultural awareness
