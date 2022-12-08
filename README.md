@@ -1,5 +1,4 @@
 ![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen)
-![Last updated](https://img.shields.io/badge/Last_updated-December-2022-blue)
 
 ## Sarita Radia
 
