@@ -115,7 +115,6 @@ _Chemistry BSc(Honours)_
 - Immoderately strict periods of time were given to plan, implement and analyse laboratory research projects. Covered an immense variety of areas which depended on accuracy, precision and a high level of independent research.
 - My degree significantly boosted my written and oral communication skills, as it was necessary to execute numerous essays, assignments, and presentations.
 
-
 #### Code First: Girls
 _Introduction to Web Development_
 
