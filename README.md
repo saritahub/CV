@@ -120,7 +120,7 @@ _Introduction to Web Development_
 - Eight-week introductory course to HTML, CSS and JavaScript
 - As part of my final project, I worked with a team to create a [Travel Portfolio website](https://github.com/saritahub/Project-CFG)
 
-## <a name="hobbies">Hobbies </a>
+## <a name="hobbies">Hobbies 🏋🏽‍♀️ </a>
 - **Web Development** 👩🏽‍💻I am partaking in a self-directed course with [Makers](https://makers.tech/) to boost my knowledge and switch to the tech industry 
 - **Reading** 📖 I read to inspire creativity within myself
 - **Travelling** ✈️ To broaden my perspectives and increase my cultural awareness
