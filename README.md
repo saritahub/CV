@@ -15,7 +15,7 @@ Career switching from Marketing in SaaS to Software Development. This is for man
 - Coding brings ideas to life. If you know what you want, know that it is possible to create it. This fuels my self-directed learning.
 
 
-## Projects
+## Projects 👩🏽‍💻
 
 | Name                         | Description           | Tech/tools        |
 | ---------------------------- | -----------------     | ----------------- |
@@ -39,7 +39,7 @@ Career switching from Marketing in SaaS to Software Development. This is for man
 - Firebase
 
 
-## <a name="skills">Skills </a>
+## <a name="skills">Skills ⚙️ </a>
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
@@ -69,7 +69,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## <a name="work-experience">Work Experience </a>
+## <a name="work-experience">Work Experience 💼 </a>
 
 **Dotdigital** (September 2019 - June 2022) 
 _Customer Success Manager_
