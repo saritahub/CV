@@ -1,3 +1,6 @@
+![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen)
+![Last updated](https://img.shields.io/badge/Last_updated-December-2022-blue)
+
 ## Sarita Radia
 
 Career switching from Marketing in SaaS to Software Development. This is for many reasons, including:
