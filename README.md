@@ -1,5 +1,5 @@
 ![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen)
-<a href="https://www.linkedin.com/in/sarita-r-00062b14b"><img src="images/linkedin.png" width="60" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/sarita-r-00062b14b"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" alt="LinkedIn"></a>
 
 
 ## Sarita Radia
