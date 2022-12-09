@@ -109,18 +109,18 @@ Skills gained include:
 - Ruby, Rails, RSpec
 - SQL (PostgreSQL, SQLlite, TablePlus)
 
+#### Code First: Girls (April 2022 - June 2022)
+_Introduction to Web Development_
+
+- Eight-week introductory course to HTML, CSS and JavaScript
+- As part of my final project, I worked with a team to create a [Travel Portfolio website](https://github.com/saritahub/Project-CFG)
+
 #### University of Nottingham (September 2013 - September 2017)
 _Chemistry BSc(Honours)_
 
 - A balance of team and individual work was essential in class as well as in the lab setting.
 - Immoderately strict periods of time were given to plan, implement and analyse laboratory research projects. Covered an immense variety of areas which depended on accuracy, precision and a high level of independent research.
 - My degree significantly boosted my written and oral communication skills, as it was necessary to execute numerous essays, assignments, and presentations.
-
-#### Code First: Girls
-_Introduction to Web Development_
-
-- Eight-week introductory course to HTML, CSS and JavaScript
-- As part of my final project, I worked with a team to create a [Travel Portfolio website](https://github.com/saritahub/Project-CFG)
 
 ## <a name="hobbies">Hobbies 🏋🏽‍♀️ </a>
 - **Reading** 📖 I read to inspire creativity within myself
