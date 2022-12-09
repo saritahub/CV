@@ -107,7 +107,7 @@ Skills gained include:
 - HTML, CSS (including Bootstrap and Tailwind CSS)
 - JavaScript, React.js, Node.js, Express, jQuery
 - Ruby, Rails, RSpec
-- SQL (PostgreSQL, SQLlite, TablePlus)
+- SQL (PostgreSQL)
 
 #### Code First: Girls (April 2022 - June 2022)
 _Introduction to Web Development_
