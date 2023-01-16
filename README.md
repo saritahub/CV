@@ -1,8 +1,10 @@
+## Work in Progress 🛠️
+
 ![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen)                
 <br/>
 Find me on LinkedIn: <a href="https://www.linkedin.com/in/sarita-r-00062b14b"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25" alt="LinkedIn"></a>
 
-## Sarita Radia
+## Sarita Radia 
 <div align="center">
 
 [Introduction](#introduction) | [Projects](#projects) | [Tech Stack](#tech-stack) | [Skills](#skills) | [Education](#education) | [Work experience](#work-experience) | [Hobbies](#hobbies)
