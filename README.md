@@ -15,7 +15,7 @@ Find me on LinkedIn: <a href="https://www.linkedin.com/in/sarita-r-00062b14b"><i
 Career switching from Marketing in SaaS to Software Development. This is for many reasons, including:
 - Software development has a huge variety of tasks and always changing, so I will need to keep on top of the content - I love to learn and adapt to changes. 
 - I am someone who is always seeking to learn and develop, and I have the creativity to problem solve. I have experience working as part of a team and individually in a professional environment.
-- Additionally, I am passionate about problem solving and coming up with creative and efficient solutions.  I am a good communicator and a solid team player.
+- Passionate about problem solving and coming up with creative and efficient solutions.  I am a good communicator and a solid team player.
 - Coding brings ideas to life. If you know what you want, know that it is possible to create it. This fuels my self-directed learning.
 
 
