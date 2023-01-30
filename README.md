@@ -45,7 +45,7 @@ Career switching from Marketing in SaaS to Software Development. This is for man
 
 
 ## <a name="skills">Skills ⚙️ </a>
-**Expert communicator known for: **
+**Expert communicator known for:**
 - Training colleagues effectively
 - Presenting comprehensive email marketing strategies to clients with ease 
 
