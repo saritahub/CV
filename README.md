@@ -45,34 +45,19 @@ Career switching from Marketing in SaaS to Software Development. This is for man
 
 
 ## <a name="skills">Skills ⚙️ </a>
+**Expert communicator known for: **
+- Training colleagues effectively
+- Presenting comprehensive email marketing strategies to clients with ease 
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+**Proven track record of fast learning and exceptional project management skills honed through:**
+- Completing a rigorous software bootcamp at Makers Academy 
+- Assuming rotating leadership roles for projects, honing conflict resolution and decision-making abilities 
 
--STAR
--What was the situation/task? (ST)
+**Self-motivated team player who consistently:**
+- Pursues personal and professional growth on a daily basis 
+- Contributes significantly to team success through autonomous work-style 
+- Engages in constructive feedback through code review processes
 
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## <a name="work-experience">Work Experience 💼 </a>
 
